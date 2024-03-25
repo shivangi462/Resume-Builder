@@ -2,7 +2,7 @@
 
 ```javascript
 
- sections = {
+ ```sections = {
     basicInfo: "Basic Info",
     workExp: "Work Experience",
     project: "Projects",
