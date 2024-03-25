@@ -56,5 +56,5 @@
       sectionTitle: sections.other,
       detail: "",
     },
-
+```
 ```
